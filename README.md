@@ -1,19 +1,15 @@
-## Name : Oviya K P
-## Reg No. : 212223060191
+## HARDWARE-EXPERIMENTS
+## IDEAL SAMPING
+![image](https://github.com/user-attachments/assets/b9a07ff6-a728-46db-ac2e-c3ffa8ef3061)
 
-### Ideal sampling
-![image](https://github.com/user-attachments/assets/328697f1-9123-45a3-8e30-0af409e2d994)
+## NATURAL SAMPLING
+![image](https://github.com/user-attachments/assets/81a3bcf7-590b-4e55-9a47-d5e41c150007)
 
+## PULSE-CODE MODULATION
+![image](https://github.com/user-attachments/assets/3ce643e4-1760-4c7d-b73f-100a098121e6)
 
-### Natural Sampling
-![image](https://github.com/user-attachments/assets/f93fa475-db2f-4a07-9c3b-8acfb9025986)
+## DELTA MODULATION
+![image](https://github.com/user-attachments/assets/38485f6e-3bed-4724-ac3a-4a93d970bed3)
 
-### PCM
-![image](https://github.com/user-attachments/assets/64209dd6-c56d-4aaf-8b6e-4348bb91542b)
-
-
-### DM
-![image](https://github.com/user-attachments/assets/a0914321-c9df-4a50-9ece-ab1ef31bc116)
-
-### Line Coding 
-![image](https://github.com/user-attachments/assets/250f767c-ed25-47fd-90db-f08553319046)
+## LINE CODING
+![image](https://github.com/user-attachments/assets/10bdd718-c94f-4df9-80dd-69556a52eed0)
